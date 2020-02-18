@@ -52,3 +52,5 @@ At the end of this course, students should:
  
 
 **Textbook: Bonan, G. (2019) Climate Change and Terrestrial Ecosystem Modeling, 1st Edition, Cambridge University Press, UK. Note: Supplemental readings will be provided on Canvas.**
+
+Please see the full course syllabus in the main repository for more information.

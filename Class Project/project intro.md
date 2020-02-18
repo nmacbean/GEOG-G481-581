@@ -5,3 +5,5 @@ Each student will complete a class project which will be to learn in depth one p
 *Additional requirement for G589 students*: the class project will be more extensive and based on your research interests. It will make up a greater percentage of your overall grade. Students will be expected to seek out further material in the form of journal articles than the reading list they are given.
 
 **Quizzes**: as part of the Class Project, each student will prepare a 10 question quiz to test if the rest of the class has understood the material. The rest of the class will take all the set by the other students in their class and the overall grade will be the average across those quizzes.
+
+In this directory you will find a powerpoint presentation introducing the various components of the class project as well as a grading rubric for each component. A reading list for each student will also be provided depending upon their chosen topic.

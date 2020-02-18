@@ -6,13 +6,13 @@ Department of Geography
 Indiana University  
 Spring 2020 Syllabus  
 
-Lecture: Monday and Wednesday 9:30-10:45am 
-Lecture Location: Monday SB 138; Wednesday SB 221
+Lecture: Monday and Wednesday 9:30-10:45am   
+Lecture Location: Monday SB 138; Wednesday SB 221 
 
-Instructor: Dr. Natasha MacBean 
-Office: Student Building 204 
-Email: nmacbean@indiana.edu 
-Office hours: Monday and Wednesday 10:45-11:45am 
+Instructor: Dr. Natasha MacBean  
+Office: Student Building 204  
+Email: nmacbean@indiana.edu  
+Office hours: Monday and Wednesday 10:45-11:45am  
 
 ## Short course description
 

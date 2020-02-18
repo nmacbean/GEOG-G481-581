@@ -1,4 +1,4 @@
-## In-class exercises: 
+## In-Class Exercises: 
 
 During the in-class exercises we will learn how to build a simple carbon model. We will also test the sensitivity of the model and use it to answer some fundamental climate and environmental change questions.
 

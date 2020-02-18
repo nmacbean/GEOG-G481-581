@@ -1,4 +1,4 @@
-# Welcome to Indiana University GEOG-G440/540:    Terrestrial Ecosystem Modeling
+# Welcome to Indiana University GEOG-G440/540:           Terrestrial Ecosystem Modeling
 
 These course notes are for the in-class exercises and assessments in GEOG-G440/540.
 

@@ -8,7 +8,8 @@ In the in-class exercises we'll be building and analyzing results from a simple 
 
 **The two pools correspond to the litter and soil C pools.**
 
-**Inputs to the model** (model "drivers" or "forcings") are litter and soil temperature and moisture and litterfall from leaves falling off trees (as well as turnover of dead wood):
+### Inputs to the model
+Inputs to the model (model "drivers" or "forcings") are litter and soil temperature and moisture and litterfall from leaves falling off trees (as well as turnover of dead wood):
 1. Litter input from leaf turnover (during senescence, as well as turnover of dead wood)
 2. Temperature in the litter layer
 3. Moisture in the litter layer
@@ -22,20 +23,19 @@ Input data are derived from a temperate deciduous forest site located in Denton 
 ![site zoom](denton_site_zoom.png)
 
 
-
+### Model calculations
 At each timestep, we calculate the fluxes of C between the two pools (transfers of C from litter to the soil pool and vice versa). We also calculate the C lost from each pool via heterotrophic respiration (Rh). Finally, we calculate the changes in C in each C pool as a sum of the inputs minus outputs to and from each pool.
 
 
-
-**The general equations for this model are as follows:**
+#### The general equations for this model are as follows:
 ![general equations](general_equations.png)
 
 
-**The temperature and moisture limitation functions are as follows:**
+#### The temperature and moisture limitation functions are as follows:
 ![limitation functions](limitation_functions.png)
 
 
-**The model parameters are:**
+#### The model parameters are:
 *Parameters for the environmental limitations*
 - Q10: Q10 temperature limitation on heterotrophic respiration (Rh)
 - Tref: reference temperature for Q10 equation (Kelvin)

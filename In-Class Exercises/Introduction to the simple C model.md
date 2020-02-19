@@ -35,7 +35,7 @@ At each timestep, we calculate the fluxes of C between the two pools (transfers 
 ![limitation functions](limitation_functions.png)
 
 
-## Model parameters are:
+## Model parameters
 *Parameters for the environmental limitations*
 - Q10: Q10 temperature limitation on heterotrophic respiration (Rh)
 - Tref: reference temperature for Q10 equation (Kelvin)

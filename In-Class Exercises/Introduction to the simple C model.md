@@ -14,7 +14,6 @@ At each timestep, we calculate the fluxes of C between the two pools (transfers 
 
 
 The general equation for the C transferred between each pool is:
-\begin{equation*}
-C_{tot\_decomp} = C_{pool_x}.\frac{\Delta t}{\tau_{pool_x}}.f(T)_{pool_x}.f(W)_{pool_x}.M_{e,pool_x}\qquad(1)
-\end{equation*}
+C$_{tot\_decomp}$ = C_{pool_x}.\frac{\Delta t}{\tau_{pool_x}}.f(T)_{pool_x}.f(W)_{pool_x}.M_{e,pool_x}\qquad(1)
+
 

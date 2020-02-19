@@ -21,7 +21,10 @@ Input data are derived from a temperate deciduous forest site located in Denton 
 
 ![site zoom](denton_site_zoom.png)
 
+
+
 At each timestep, we calculate the fluxes of C between the two pools (transfers of C from litter to the soil pool and vice versa). We also calculate the C lost from each pool via heterotrophic respiration (Rh). Finally, we calculate the changes in C in each C pool as a sum of the inputs minus outputs to and from each pool.
+
 
 
 **The general equations for this model are as follows:**
@@ -29,7 +32,7 @@ At each timestep, we calculate the fluxes of C between the two pools (transfers 
 
 
 **The temperature and moisture limitation functions are as follows:**
-![limitation functions(limitation_functions.png)
+![limitation functions](limitation_functions.png)
 
 
 **The model parameters are:**

@@ -15,6 +15,12 @@ In the in-class exercises we'll be building and analyzing results from a simple 
 4. Temperature in the soil layer
 5. Moisture in the soil layer
 
+Input data are derived from a temperate deciduous forest site located in Denton Hill State Park in Pennsylvania (41.8N; -77.8W)
+
+![site extended](denton_site_extend.png)
+
+![site zoom](denton_site_zoom.png)
+
 At each timestep, we calculate the fluxes of C between the two pools (transfers of C from litter to the soil pool and vice versa). We also calculate the C lost from each pool via heterotrophic respiration (Rh). Finally, we calculate the changes in C in each C pool as a sum of the inputs minus outputs to and from each pool.
 
 
@@ -46,4 +52,5 @@ At each timestep, we calculate the fluxes of C between the two pools (transfers 
 *Parameters for the initial carbon stock of each pool*
 - C_litter_t0: initial C stock of the litter pool (kgC/m2)
 - C_soil_t0: initial C stock of the soil pool (kgC/m2)
+
 

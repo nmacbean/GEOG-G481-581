@@ -14,5 +14,5 @@ At each timestep, we calculate the fluxes of C between the two pools (transfers 
 
 
 The general equations for this model are as follows:
-![equations](general_equations.png)
+![general equations](general_equations.png)
 

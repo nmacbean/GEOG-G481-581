@@ -2,7 +2,9 @@ In today's exercise we'll be learning how to build a simple two pool C model.
 
 The course notes for these exercises can be found in this directory: https://github.com/nmacbean/GEOG-G440-540/tree/master/In-Class%20Exercises/Exercise%201%20Building%20the%20Model
 
-We'll be working in Python in a Jupyter Notebook. Please download the jupyter notebook we will be working in and the input data file.
+We will also go through the introduction to the simple C cycle model we're building here: https://github.com/nmacbean/GEOG-G440-540/blob/master/In-Class%20Exercises/Introduction%20to%20the%20simple%20C%20model.md
+
+We will be working in Python in a Jupyter Notebook. Please download the jupyter notebook we will be working in and the input data file.
 
 We will load Jupyter Notebook using Git Bash on the STC computers. Search for Git Bash and open it up.
 

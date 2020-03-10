@@ -4,7 +4,7 @@ In today's exercise we'll be exploring how model sensitivity analysis can be use
 
 You will need to download the Jupyter Notebook for the exercise,the input file here, *and* the separate model script. 
 
-All the files can also be found on the GitHub course page: 
+All the files can also be found on the GitHub course page: https://github.com/nmacbean/GEOG-G440-540/tree/master/In-Class%20Exercises/Exercise%203%20Model%20Sensitivity
 
 Complete the questions and exercises in the Jupyter Notebook and upload it to Canvas by the deadline. 
 

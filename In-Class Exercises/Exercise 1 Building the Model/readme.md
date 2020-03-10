@@ -1,3 +1,5 @@
+## Exercise 1: Building a simple two pool carbon cycle model
+
 In today's exercise we'll be learning how to build a simple two pool C model.
 
 The course notes for these exercises can be found in this directory: https://github.com/nmacbean/GEOG-G440-540/tree/master/In-Class%20Exercises/Exercise%201%20Building%20the%20Model

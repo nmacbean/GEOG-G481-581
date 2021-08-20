@@ -1,13 +1,13 @@
-# Welcome to Indiana University GEOG-G440/540:           Terrestrial Ecosystem Modeling
+# Welcome to Indiana University GEOG-G481/581:           Terrestrial Ecosystem Modeling
 
-These course notes are for the in-class exercises and assessments in GEOG-G440/540.
+These course notes are for the in-class exercises and assessments in GEOG-G481/581.
 
 Department of Geography  
 Indiana University  
 Spring 2020 Syllabus  
 
-Lecture: Monday and Wednesday 9:30-10:45am   
-Lecture Location: Monday SB 138; Wednesday SB 221 
+Lecture: Monday and Wednesday 9:25-10:40am   
+Lecture Location: SB 138
 
 Instructor: Dr. Natasha MacBean  
 Office: Student Building 204  
@@ -25,9 +25,7 @@ This course introduces students to Terrestrial Ecosystem Modeling. Terrestrial E
 
 In this course, students will learn about each of these major components of TEMs. Students will also focus in depth on one specific component of TEMs that is pertinent to their research, interests or career goals via independent research and readings on the topic and an in-class project and presentation. We will also learn about the history of terrestrial ecosystem model development, particularly within the context of climate change modeling, the challenges of developing models, the remaining gaps or structural inadequacies of these models, and about quantifying and reducing model uncertainty via data assimilation.
 
-In practical classes throughout the first ten weeks of the course, students will have a chance to develop a simple carbon cycle model, starting from the initial concept, through the equations, then the computational algorithm needed to implement the model, and finally to the writing the code (in Python). We will develop this model together in class and via practical assignments. Students will then use this model to run experiments to better understand how models work, and to learn how we use models to better understand physical and biogeochemical processes. Some experience in computer programming would be helpful for the practical component, but is not necessary.
-
-In the final part of the course, students will take turns to present and discuss scientific journal articles detailing the most recent global-scale TEM predictions as well as papers discussing disagreements between model predictions and controversial issues surrounding the field of modeling.
+In practical classes throughout the second part of the course, students will have a chance to develop a simple carbon cycle model, starting from the initial concept, through the equations, then the computational algorithm needed to implement the model, and finally to the writing the code (in Python). We will develop this model together in class and via practical assignments. Students will then use this model to run experiments to better understand how models work, and to learn how we use models to better understand physical and biogeochemical processes. Some experience in computer programming would be helpful for the practical component, but is not necessary.
 
 This course should be useful for anyone interested in, or carrying out research, in any aspect of how ecosystems are responding to global environmental change, regardless of the specific biome or timescale being studied. Having an understanding of how terrestrial ecosystem models work should add great value to their study area given the importance of these models in making future climate change projections that contribute to IPCC Assessment Reports. There are no pre-requisites for this course, but students must have completed a course in ecosystem science, hydrology, biogeochemistry, ecological climatology or another related field. Permission with consent of instructor.
 

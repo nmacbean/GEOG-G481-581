@@ -4,7 +4,7 @@ These course notes are for the in-class exercises and assessments in GEOG-G481/5
 
 Department of Geography  
 Indiana University  
-Spring 2020 Syllabus  
+Spring 2021 
 
 Lecture: Monday and Wednesday 9:25-10:40am   
 Lecture Location: SB 138

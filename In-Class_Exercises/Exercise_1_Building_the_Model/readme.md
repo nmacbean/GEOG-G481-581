@@ -13,9 +13,13 @@ We will load Jupyter Notebook on the IU research desktop.
 To load the IU research desktop, go to https://red.uits.iu.edu/main/.
 
 On the command line, type:
+
 \>> git clone https://github.com/nmacbean/GEOG-G481-581
+
 \>> cd GEOG-G481-581
+
 \>> git pull
+
 \>> source activate /N/u/macblab/Carbonate/.conda/envs/py37_env
  
 Today we will go through the exercise together and there will be time to do the exercises and answer questions. We will also be learning some basic python coding to perform the tasks we want to accomplish. 

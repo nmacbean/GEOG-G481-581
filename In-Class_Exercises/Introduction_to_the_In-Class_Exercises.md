@@ -8,4 +8,4 @@ Four in-class exercises will be set for the practical part of the course.
 
 Students will need to complete the assigned exercises and submit them by the given deadline.
 
-All practical exercises will be completed in Python v3 in a Jupyter Notebook.
+All practical exercises will be completed in Python v3 in a Jupyter Notebook using the IU Carbonate supercomputer on the Research Desktop.

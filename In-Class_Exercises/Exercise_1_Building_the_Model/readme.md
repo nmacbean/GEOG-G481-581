@@ -8,9 +8,9 @@ We will also go through the introduction to the simple C cycle model we're build
 
 We will be working in Python in a Jupyter Notebook. Please download the jupyter notebook we will be working in and the input data file.
 
-We will load Jupyter Notebook using Git Bash on the STC computers. Search for Git Bash and open it up.
+We will load Jupyter Notebook on the IU research desktop.
 
-On the command line prompt, type "jupyter notebook" and the JupyterNotebook server will load.
+To load the IU research desktop...
  
 Today we will go through the exercise together and there will be time to do the exercises and answer questions. We will also be learning some basic python coding to perform the tasks we want to accomplish. 
  

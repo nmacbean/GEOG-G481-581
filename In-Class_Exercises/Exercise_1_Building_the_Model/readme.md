@@ -6,9 +6,7 @@ The course notes for these exercises can be found in this directory: https://git
 
 We will also go through the introduction to the simple C cycle model we're building here: https://github.com/nmacbean/GEOG-G440-540/blob/master/In-Class%20Exercises/Introduction%20to%20the%20simple%20C%20model.md
 
-We will be working in Python in a Jupyter Notebook. Please download the jupyter notebook we will be working in and the input data file.
-
-We will load Jupyter Notebook on the IU research desktop.
+We will be working in Python in a Jupyter Notebook. We will load Jupyter Notebook on the IU research desktop.
 
 To load the IU research desktop, go to https://red.uits.iu.edu/main/.
 

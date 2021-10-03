@@ -20,8 +20,10 @@ On the command line, type:
 
 \>> git pull
 
+\>> module load anaconda
+
 \>> source activate /N/u/macblab/Carbonate/.conda/envs/py37_env
  
-Today we will go through the exercise together and there will be time to do the exercises and answer questions. We will also be learning some basic python coding to perform the tasks we want to accomplish. 
+This we will go through the exercise together and there will be time to do the exercises and answer questions. We will also be learning some basic python coding to perform the tasks we want to accomplish. 
  
 Please complete all the exercises within the notebook and answer all the questions before uploading to Canvas.

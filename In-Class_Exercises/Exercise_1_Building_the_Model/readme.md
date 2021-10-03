@@ -12,7 +12,7 @@ To load the IU research desktop, go to https://red.uits.iu.edu/main/.
 
 On the command line, type:
 
-\>> git clone https://github.com/nmacbean/GEOG-G481-581
+[FIRST TIME ONLY] \>> git clone https://github.com/nmacbean/GEOG-G481-581
 
 \>> cd GEOG-G481-581
 
@@ -21,6 +21,12 @@ On the command line, type:
 \>> module load anaconda
 
 \>> source activate /N/u/macblab/Carbonate/.conda/envs/py37_env
+
+\>> cd In-Class_Exercises/Exercise_1_Building_the_Model/
+
+\>> jupyter notebook
+
+This will open a Mozilla Firefox window with the jupyter directory. Click on "Exercise_1_Building_the_Model.ipynb" to open the jupyter notebook for this exericse.
  
 This we will go through the exercise together and there will be time to do the exercises and answer questions. We will also be learning some basic python coding to perform the tasks we want to accomplish. 
  

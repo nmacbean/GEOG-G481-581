@@ -27,6 +27,8 @@ On the command line, type:
 \>> jupyter notebook
 
 This will open a Mozilla Firefox window with the jupyter directory. Click on "Exercise_1_Building_the_Model.ipynb" to open the jupyter notebook for this exericse.
+
+**Once you have finished the exercise, make sure you save the Jupyter Notebook and then upload it directly to Canvas on the research desktop.** I will show you an example of how to do this during class.
  
 This we will go through the exercise together and there will be time to do the exercises and answer questions. We will also be learning some basic python coding to perform the tasks we want to accomplish. 
  

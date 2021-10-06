@@ -20,7 +20,7 @@ On the command line, type:
 
 \>> module load anaconda
 
-\>> source activate /N/u/macblab/Carbonate/.conda/envs/py37_env
+\>> source activate /N/project/geog_g481_581/conda_envs/py37_env
 
 \>> cd In-Class_Exercises/Exercise_1_Building_the_Model/
 

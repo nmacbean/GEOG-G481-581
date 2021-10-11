@@ -15,13 +15,9 @@ We will be working in Python in a Jupyter Notebook. We will load Jupyter Noteboo
 
 [FIRST TIME ONLY] \>> git clone https://github.com/nmacbean/GEOG-G481-581
 
-\>> cd GEOG-G481-581
-
-\>> git pull
-
 \>> module load anaconda
 
-\>> cd In-Class_Exercises/Exercise_1_Building_the_Model/
+\>> cd GEOG-G481-581/In-Class_Exercises/Exercise_1_Building_the_Model/
 
 \>> jupyter notebook
 

@@ -20,8 +20,6 @@ On the command line, type:
 
 \>> module load anaconda
 
-\>> source activate /N/project/geog_g481_581/conda_envs/py37_env
-
 \>> cd In-Class_Exercises/Exercise_1_Building_the_Model/
 
 \>> jupyter notebook

@@ -11,7 +11,7 @@ We will be working in Python in a Jupyter Notebook. We will load Jupyter Noteboo
 1. To load the IU research desktop, go to https://red.uits.iu.edu/main/.
 2. Open the terminal.
 
-On the command line, type:
+3. On the command line, type:
 
 [FIRST TIME ONLY] \>> git clone https://github.com/nmacbean/GEOG-G481-581
 

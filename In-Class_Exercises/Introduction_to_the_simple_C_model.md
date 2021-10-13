@@ -25,7 +25,7 @@ Input data are derived from a temperate deciduous forest site located in Denton 
 ## Model calculations
 At each timestep, we calculate the fluxes of C between the two pools (transfers of C from litter to the soil pool and vice versa). We also calculate the C lost from each pool via heterotrophic respiration (Rh). Finally, we calculate the changes in C in each C pool as a sum of the inputs minus outputs to and from each pool.
 
-UNITS: Units for model simulations of Rh are kgC/m2/day (per timestep because this is a *flux* of carbon) and for the C pools kgC/m2 (not per timestep because this is a *store* of carbon). Given the litter input is in gC/m2/day, we need to convert this to kgC/m2/day. We will learn how to do this in Exercise 1.
+**UNITS**: Units for model simulations of Rh are kgC/m2/day (per timestep because this is a *flux* of carbon) and for the C pools kgC/m2 (not per timestep because this is a *store* of carbon). Given the litter input is in gC/m2/day, we need to convert this to kgC/m2/day. We will learn how to do this in Exercise 1.
 
 ### The general equations for this model are as follows:
 ![general equations](general_equations.png)

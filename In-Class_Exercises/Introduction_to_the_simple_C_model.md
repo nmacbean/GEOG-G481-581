@@ -9,11 +9,11 @@ In the in-class exercises we'll be building and analyzing results from a simple 
 
 ## Inputs to the model
 Inputs to the model (model "drivers" or "forcings") are litter and soil temperature and moisture and litterfall from leaves falling off trees (as well as turnover of dead wood):
-1. Litter input from leaf turnover (during senescence, as well as turnover of dead wood)
-2. Temperature in the litter layer
-3. Moisture in the litter layer
-4. Temperature in the soil layer
-5. Moisture in the soil layer
+1. Litter input from leaf turnover (during senescence, as well as turnover of dead wood) (units of gC/m2/dt)
+2. Temperature in the litter layer (units of degrees celcius)
+3. Moisture in the litter layer (volumetric water content - unitless between 0 and 1)
+4. Temperature in the soil layer (units of degrees celcius)
+5. Moisture in the soil layer (volumetric water content - unitless between 0 and 1)
 
 Input data are derived from a temperate deciduous forest site located in Denton Hill State Park in Pennsylvania (41.8N; -77.8W)
 
@@ -25,6 +25,7 @@ Input data are derived from a temperate deciduous forest site located in Denton 
 ## Model calculations
 At each timestep, we calculate the fluxes of C between the two pools (transfers of C from litter to the soil pool and vice versa). We also calculate the C lost from each pool via heterotrophic respiration (Rh). Finally, we calculate the changes in C in each C pool as a sum of the inputs minus outputs to and from each pool.
 
+UNITS: Units for model simulations of Rh are kgC/m2/day (per timestep because this is a *flux* of carbon) and for the C pools kgC/m2 (not per timestep because this is a *store* of carbon). Given the litter input is in gC/m2/day, we need to convert this to kgC/m2/day. We will learn how to do this in Exercise 1.
 
 ### The general equations for this model are as follows:
 ![general equations](general_equations.png)

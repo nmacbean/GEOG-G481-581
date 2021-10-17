@@ -15,6 +15,7 @@ On the command line, type:
 5. In-Class_Exercises/Exercise_3_Model_Sensitivity/
 6. module load anaconda
 7. jupyter notebook
+
 This will open a Mozilla Firefox window with the jupyter directory. Click on "Exercise_3_Model_Sensitivity.ipynb" to open the jupyter notebook for this exericse.
 
 Once you have finished the exercise, make sure you **save** the Jupyter Notebook **with your name** in the file name (e.g. Exercise_3_Model_Sensitivity_nmacbean.ipynb) and then upload it directly to Canvas on RED.
